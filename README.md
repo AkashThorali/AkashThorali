@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Washington, building software across AI/ML, cloud systems, and mobile and web applications.
 
-[Email](mailto:akashtn@uw.edu) · [LinkedIn](https://linkedin.com/in/akash-thorali01) · Seattle, WA
+[Email](mailto:akashtn@uw.edu) · [LinkedIn](https://linkedin.com/in/akash-thorali01) · [GitHub](https://github.com/AkashThorali) · Seattle, WA
 
 ## About
 
@@ -12,7 +12,7 @@ Computer Science student at the University of Washington, building software acro
 
 ## Featured Projects
 
-- 🤟 **SignLink** — An AI-powered ASL-to-English translator using a TensorFlow CNN trained on 3,000+ labeled samples. Reached 85.6% accuracy and real-time performance above 30 FPS; placed 2nd in Software Development at the 2024 Washington State TSA Conference. *(Python, TensorFlow, scikit-learn, OpenCV)*
+- 🤟 **SignLink** — A real-time ASL recognition pipeline using MediaPipe hand landmarks and a 3-layer neural network. Achieved 98.8% validation accuracy across 29 classes using 87,000 images, with live webcam inference at 30+ FPS. *(Python, TensorFlow, MediaPipe, OpenCV, scikit-learn)*
 - 💬 **JagCom** — A cross-platform messaging app for iOS and Android with real-time messaging and end-to-end encryption. Served 1,000+ users and 2,000+ daily transactions, and was approved for school-wide deployment at North Creek High School. *(Swift, SwiftUI, Flutter, Firebase Firestore)*
 
 ## Experience
@@ -27,7 +27,7 @@ Computer Science student at the University of Washington, building software acro
 ## Tech & Interests
 
 - 🧰 **Languages:** Python, Java, C++, JavaScript, TypeScript, Swift, SQL, Dart
-- 🧠 **ML/CV:** TensorFlow, PyTorch, scikit-learn, OpenCV, MediaPipe
+- 🧠 **ML/CV:** TensorFlow, MediaPipe, OpenCV, scikit-learn
 - 🛠️ **Frameworks:** React, Angular, Flutter, SwiftUI
 - ☁️ **Cloud & systems:** AWS, Firebase, REST APIs, microservices, OAuth2, webhooks, MongoDB
 - ⚙️ **Tools:** Git, Jasmine, Amazon Q Developer, Agile/Scrum
@@ -37,7 +37,7 @@ Computer Science student at the University of Washington, building software acro
 **University of Washington, Seattle** — B.S. Computer Science, minor in Computational Finance  
 Expected graduation: June 2028
 
-Coursework includes algorithms, data structures and parallelism, systems programming, artificial intelligence, machine learning, database management, and software design and implementation.
+Coursework includes algorithms, data structures and parallelism, systems programming, operating systems, distributed systems, computer security, artificial intelligence, machine learning, deep learning, and database management.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---

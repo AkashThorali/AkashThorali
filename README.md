@@ -1,24 +1,43 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Akash Thorali
+
+Computer Science student at the University of Washington, building software across AI/ML, cloud systems, and mobile and web applications.
+
+[Email](mailto:akashtn@uw.edu) · [LinkedIn](https://linkedin.com/in/akash-thorali01) · Seattle, WA
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 🎓 B.S. in Computer Science, minor in Computational Finance at the University of Washington (expected June 2028)
+- 🔭 Interested in AI/ML, computer vision, full-stack development, and scalable systems
+- 🤝 Involved with DubHacks, Kappa Theta Pi, ASUW, AI Student Collective, CRY UW, and UW Kahaani
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+
+- 🤟 **SignLink** — An AI-powered ASL-to-English translator using a TensorFlow CNN trained on 3,000+ labeled samples. Reached 85.6% accuracy and real-time performance above 30 FPS; placed 2nd in Software Development at the 2024 Washington State TSA Conference. *(Python, TensorFlow, scikit-learn, OpenCV)*
+- 💬 **JagCom** — A cross-platform messaging app for iOS and Android with real-time messaging and end-to-end encryption. Served 1,000+ users and 2,000+ daily transactions, and was approved for school-wide deployment at North Creek High School. *(Swift, SwiftUI, Flutter, Firebase Firestore)*
+
+## Experience
+
+- **Software Engineer Intern, FINRA** — Built OAuth2 and webhook integrations for IT support, reducing manual ticket volume by 25% for 4,000+ employees. Developed a reusable prompt library for Jasmine tests and modernized an Angular codebase from v16 to v20.
+- **Systems Engineer Intern, T-Mobile** — Designed 50+ workflows supporting 12 engineering teams, contributed to an AWS migration, and integrated Power Apps with SharePoint to cut documentation search time by 93%.
+
+## Leadership
+
+**Finance & Budget Committee Member, Associated Students of the University of Washington (ASUW)** — Helped develop and allocate a $1.8M budget for 2025–2026 and administer a $500K Special Appropriations Fund. Contributed to eliminating a $100K budget deficit through fund reallocation and staffing changes.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 **Languages:** Python, Java, C++, JavaScript, TypeScript, Swift, SQL, Dart
+- 🧠 **ML/CV:** TensorFlow, PyTorch, scikit-learn, OpenCV, MediaPipe
+- 🛠️ **Frameworks:** React, Angular, Flutter, SwiftUI
+- ☁️ **Cloud & systems:** AWS, Firebase, REST APIs, microservices, OAuth2, webhooks, MongoDB
+- ⚙️ **Tools:** Git, Jasmine, Amazon Q Developer, Agile/Scrum
+
+## Education
+
+**University of Washington, Seattle** — B.S. Computer Science, minor in Computational Finance  
+Expected graduation: June 2028
+
+Coursework includes algorithms, data structures and parallelism, systems programming, artificial intelligence, machine learning, database management, and software design and implementation.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
